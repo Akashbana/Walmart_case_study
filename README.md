@@ -1,1 +1,1 @@
-# DS_projects
+# Walmart case study
